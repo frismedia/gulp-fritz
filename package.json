@@ -33,7 +33,7 @@
     "gulp-util": "^3.0.7",
     "gulp.spritesmith": "^6.2.0",
     "imagemin-pngquant": "^4.2.2",
-    "laravel-elixir": "*",
+    "laravel-elixir": "6.0.0-18",
     "spritesmith": "^3.1.0",
     "underscore": "^1.8.3",
     "yargs": "^4.3.2",
